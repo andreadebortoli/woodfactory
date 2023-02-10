@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffF6rPnW18IblzUUuVqlrvj29S+Vfe6EZd/mmP4do3w8K+7cIMNoWtsg3N4Vy/en1K6E6hfsiJz/iQLFJdHeWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\primic\\Source\\Repos\\woodfactory\\WarehouseAPI\\WarehouseAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\primic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\primic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\primic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\primic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\primic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\primic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
